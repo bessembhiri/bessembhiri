@@ -1,5 +1,5 @@
 ### Hi There! 👋 😃
-  I'am Bessem and 
+    I'am Bessem and :  
   
 - 🔭 I'am interested in mathematics, python, data science and automatic control
 - 🌱 I’m currently learning reinforcement learning
