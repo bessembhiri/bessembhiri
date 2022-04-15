@@ -1,8 +1,6 @@
 ### Hi There! 👋 😃
-
-bessembhiri/bessembhiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
+  I'am Bessem and 
+  
 - 🔭 I'am interested in mathematics, python, data science and automatic control
 - 🌱 I’m currently learning reinforcement learning
 - 🤝 I’m looking to collaborate on Control and Robotics Projects
