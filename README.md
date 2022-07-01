@@ -2,7 +2,7 @@
   
 - 🔭 I'am interested in mathematics, python, data science and automatic control
 - 🌱 I’m currently learning reinforcement learning
-- 🤝 I’m looking to collaborate on Control and Robotics Projects
+- 🤝 I’m looking to collaborate on Deep Learning, ML and Computer Vision Projects
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/bessembhiri)
 - 💬 Ask me about anything tech related, I am happy to help;
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/bassem-bhiri-a7b96321/)
