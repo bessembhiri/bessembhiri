@@ -1,6 +1,6 @@
 ### Hi There! 👋 😃
   
-- 🔭 I'am interested in mathematics, python, data science and automatic control
+- 🔭 I'am interested in mathematics, python, data science, electronics and automatic control
 - 🌱 I’m currently learning reinforcement learning
 - 🤝 I’m looking to collaborate on Deep Learning, ML and Computer Vision Projects
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/bessembhiri)
